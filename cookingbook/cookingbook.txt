@@ -4,3 +4,6 @@ apples
 eggs
 panipuri
 apple pie
+apple
+mango
+eggs
